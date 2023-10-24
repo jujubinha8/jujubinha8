@@ -1,4 +1,5 @@
-### bem vindo ao meu perfil! :
+### bem vindo ao meu perfil! 🎱
+
 Meu nome e julya henning nascimento
 
 - Estou estudando na plataforma Alura.
